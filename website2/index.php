@@ -4,7 +4,7 @@
 	<title></title>
 </head>
 <body>
-<form action="includes/signup.php" methods="post">
+<form action="includes/signup.php" method="post">
     	<div>
     	<br>	
          <label>First Name</label>
